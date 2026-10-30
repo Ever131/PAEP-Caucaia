@@ -1,3 +1,4 @@
+[![Integracao painel escolar](https://github.com/sammerk23/PAEP-Caucaia/actions/workflows/build.yml/badge.svg)](https://github.com/sammerk23/PAEP-Caucaia/actions/workflows/build.yml)
 # PAEP-Caucaia
 Repositório para a cadeira de projeto integrado do curso de ADS da UFCA.
 
