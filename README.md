@@ -73,3 +73,12 @@ Para utilizar a aplicação, basta que o código-fonte do projeto seja baixado e
 A PAEP foi construída para diminuir a distância entre os pais/responsáveis e a escola e facilitar o acompanhamento dos mesmos à vida escolar de seus filhos. Dessa forma, os principais beneficiários da aplicação são os alunos e suas famílias e a equipe de funcionários da gestão de uma escola.
 
 Um exemplo de uso seria o painel servir como sistema de suporte da escola para aproximar o contato da escola com os pais e responsáveis dos alunos.
+
+##Integração Contínua (CI)
+Este projeto utiliza Integração Contínua (CI) por meio do GitHub Actions. Foi configurado um workflow para executar automaticamente o build do projeto.
+
+##O que é Integração Contínua?
+Integração contínua é uma prática de desenvolvimento de software que utiliza processos automatizados para verificar alterações realizadas em um projeto. Sempre que o workflow é acionado, as tarefas configuradas são executadas automaticamente.
+
+##Por que a CI é importante?
+Para quem está aprendendo a programar, a integração contínua é importante porque ajuda a identificar problemas de forma mais rápida e demonstra como ferramentas de automação são utilizadas no desenvolvimento de software.
