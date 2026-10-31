@@ -73,3 +73,13 @@ Para utilizar a aplicação, basta que o código-fonte do projeto seja baixado e
 A PAEP foi construída para diminuir a distância entre os pais/responsáveis e a escola e facilitar o acompanhamento dos mesmos à vida escolar de seus filhos. Dessa forma, os principais beneficiários da aplicação são os alunos e suas famílias e a equipe de funcionários da gestão de uma escola.
 
 Um exemplo de uso seria o painel servir como sistema de suporte da escola para aproximar o contato da escola com os pais e responsáveis dos alunos.
+
+## Integração Contínua (CI)
+
+## O que é Integração Contínua?
+
+## Por que a CI é importante?
+
+
+
+
